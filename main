@@ -1,3 +1,9 @@
+"""
+Program: Guessing Number Game
+Author: AminahChe'soh
+Last date modified: 11 November 2022
+"""
+
 print('Hello, lets play guessing number game!')
 import random
 n = random.randrange(1,10)
